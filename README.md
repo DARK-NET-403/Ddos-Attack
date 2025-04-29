@@ -19,6 +19,7 @@ pkg update -y
 pkg upgrade -y
 pkg install python -y
 pkg install git -y
+rm -rf Ddos-Attack
 git clone https://github.com/DARK-NET-403/Ddos-Attack
 cd Ddos-Attack
 chmod +x ddos.bin
