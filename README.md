@@ -19,8 +19,14 @@
 - ❗ This tool is for **EDUCATIONAL PURPOSES ONLY**  
 - ❗ **DO NOT** use on **Bangladeshi** websites or any unauthorized targets  
 - ❗ Creator **is not responsible** for misuse  
-- 🔐 Password to run the tool: `DARK-NET`
 
+---
+
+🔐 Password:
+
+```bash
+DARK-NET
+```
 ---
 
 ## ⚙️ Installation & Usage:
