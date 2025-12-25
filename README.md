@@ -43,7 +43,8 @@ chmod +x ddos.bin
 ## 🖼️ Demo Screenshot:
 
 <p align="center">
-  <img src="https://github.com/DARK-NET-403/Ddos-Attack/blob/main/Screenshot_20250429_210017.jpg" width="300"/>
+  <img src="https://github.com/DARK-NET-403/Ddos-Attack/blob/main/Screenshot_20251226_004019.jpg" width="300"/>
+  <img src="https://github.com/DARK-NET-403/Ddos-Attack/blob/main/Screenshot_20251226_003959.jpg" width="300"/>
 </p>
 
 ---
